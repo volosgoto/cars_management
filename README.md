@@ -1,14 +1,28 @@
-git init
-git remote add origin https://github.com/volosgoto/cars_management.git
+### Init repository
 
-git checkout -b main
+\_git init
 
-Do your job :-)
+### Add remote repository
 
-git add .
-git commit -m "commit description"
+\_git remote add origin https://github.com/volosgoto/cars_management.git
 
-then push or make a pull-request
-git push -u origin main
+### Switch branch to main
+
+\_git checkout -b main
+
+### Do your job :-)
+
+### Add and Commit changes
+
+\_git add .
+\_git commit -m "commit description"
+
+### then push or make a pull-request
+
+\_git push -u origin main
 
 Job is done :-)
+
+### To start the APP use
+
+\_index.rb
